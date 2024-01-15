@@ -18,7 +18,6 @@ make clean	// removes the .o files & the bitwisemenu file
 -=[ Instructions to run the file ]=-
 make
 ./bitwisemenu
-make clean (to remove the files made by the makefile)
 
 Organization  of  the  Project:
     Responsibilites:
