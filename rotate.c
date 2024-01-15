@@ -4,7 +4,7 @@ Names:
     Malcolm Morton
     Samuel Njogo
     Thomas Holloway
-Couse Section: CSCE 3600.002
+Class Section: CSCE 3600.002
 Date: September 10th, 2021
 Description:
 Contains a single function to perform the rotation operation using the two integer operands
